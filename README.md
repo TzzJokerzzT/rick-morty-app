@@ -1,10 +1,10 @@
 # Rick and Morty App
 
-Esta aplicacion es una wiky de Rick y Morty donde puedes encontrar informacion basica sobre todos los personajes de la serie [Link de la aplicacion](https://rick-and-morty-wi.netlify.app/).
+Esta aplicacion es una wiky de Rick y Morty donde puedes encontrar informacion basica sobre todos los personajes de la serie
 
 ## Tecnologia usada en el proyecto
 
-###Manejo de estado:
+Manejo de estado:
 - UseState
 
 Framework CSS
